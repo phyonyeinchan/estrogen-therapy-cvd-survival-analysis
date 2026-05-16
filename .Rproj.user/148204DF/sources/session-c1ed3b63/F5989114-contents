@@ -1,11 +1,12 @@
 # Estrogen Supplementation and Cardiovascular Disease Risk: An Advanced Epidemiological & Machine Learning Survival Analysis
+
 ## Interactive Document
-[👉 CLICK HERE TO VIEW THE FULL INTERACTIVE REPORT]https://phyonyeinchan.github.io/estrogen-therapy-cvd-survival-analysis/
+[👉 CLICK HERE TO VIEW THE FULL INTERACTIVE REPORT](https://phyonyeinchan.github.io/estrogen-therapy-cvd-survival-analysis/)
 
 ---
 
 ## Background & Objective
-This project is strategically aligned with the cutting-edge research priorities of the Unit for Cardiovascular and Nutritional Epidemiology at the Institute of Environmental Medicine (IMM), Karolinska Institutet. 
+This project is strategically aligned with cutting-edge research priorities in cardiovascular and nutritional epidemiology. 
 
 The primary objective is to investigate the pharmacological treatment of estrogen supplementation in post-menopausal women and evaluate its longitudinal relationship with future chronic disease, specifically cardiovascular disease (CVD) risk. By utilizing multi-layered biostatistical methods and modern predictive frameworks, this project explores sex-specific medicine dynamics—evaluating whether estrogen therapy exhibits protective cardiovascular properties while rigorously adjusting for and diagnosing baseline clinical confounding elements (e.g., chronological age and hypertension status).
 
