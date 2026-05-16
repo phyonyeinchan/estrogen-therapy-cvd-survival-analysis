@@ -1,0 +1,8 @@
+"0","# Extract dfbeta residuals from our primary adjusted model"
+"0","influential_check <- residuals(cox_adjusted, type = ""dfbeta"")"
+"0",""
+"0","# Plot dfbeta values specifically for the core exposure variable: estrogen_therapy"
+"0","plot(influential_check[, 1], type = ""h"", "
+"0","     main = ""Dfbeta Residual Plot for Estrogen Therapy"","
+"0","     xlab = ""Patient Observation ID"", ylab = ""Change in Beta Coefficient"","
+"0","     col = ""#2E9FDF"")"

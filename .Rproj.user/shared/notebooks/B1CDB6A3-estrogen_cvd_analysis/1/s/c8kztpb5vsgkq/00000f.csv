@@ -1,0 +1,2 @@
+"0","# Fit Kaplan-Meier survival model"
+"0","km_fit <- survfit(Surv(time_to_event, cvd_event) ~ estrogen_therapy, data = sim_data)"

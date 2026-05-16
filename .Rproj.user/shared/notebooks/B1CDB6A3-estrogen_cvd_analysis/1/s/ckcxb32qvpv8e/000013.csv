@@ -1,0 +1,3 @@
+"0",""
+"0","# Add smooth lowess calibration curve overlay"
+"0","lines(lowess(1 - pred_surv_5yr, sim_data$cvd_event), col=""blue"", lw=2)"
